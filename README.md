@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/free-proxy-server.svg)](https://badge.fury.io/py/free-proxy-server)
 
-A professional Python library for fetching proxy lists from the RedScrape API. This library provides both synchronous and asynchronous clients for seamless integration into your applications.
+Python library for fetching proxy lists from the RedScrape API. This library provides both synchronous and asynchronous clients for seamless integration into your applications.
 
 ## Features
 
@@ -368,4 +368,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Initial release
 - Synchronous and asynchronous proxy clients
 - Advanced filtering and validation
+
 - Comprehensive documentation and examples
