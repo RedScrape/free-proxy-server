@@ -324,49 +324,8 @@ custom_proxies = client.get_proxies({
 37.200.67.75:1080
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## Development Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/redscrape/free-proxy-server.git
-cd free-proxy-server
-
-# Install in development mode
-pip install -e .[dev]
-
-# Run tests
-pytest
-
-# Run linting
-black .
-isort .
-flake8 .
-mypy .
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-- 📧 Email: contact@redscrape.com
-- 🐛 Issues: [GitHub Issues](https://github.com/redscrape/free-proxy-server/issues)
-- 📖 Documentation: [Read the Docs](https://free-proxy-server.readthedocs.io/)
-
-## Changelog
-
-### v1.0.0
-- Initial release
 - Synchronous and asynchronous proxy clients
 - Advanced filtering and validation
 
 - Comprehensive documentation and examples
+
