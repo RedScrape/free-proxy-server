@@ -23,11 +23,6 @@ Python library for fetching proxy lists from the RedScrape API. This library pro
 pip install free-proxy-server
 ```
 
-For development dependencies:
-```bash
-pip install free-proxy-server[dev]
-```
-
 ## Quick Start
 
 ### Synchronous Usage
@@ -328,4 +323,5 @@ custom_proxies = client.get_proxies({
 - Advanced filtering and validation
 
 - Comprehensive documentation and examples
+
 
